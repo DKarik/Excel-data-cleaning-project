@@ -17,6 +17,6 @@ The project investigated the following issues:
 
 Each issue was assessed before corrective action was taken to avoid removing valid information or introducing unsupported assumptions.
 #raw data visual
-![Raw data picture](rawdata.png)
+![Raw data picture](raw_data.png)
 #Clean data visual
 ![Clean data picture](clean.png)
