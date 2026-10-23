@@ -19,4 +19,4 @@ Each issue was assessed before corrective action was taken to avoid removing val
 #raw data visual
 ![Raw data picture](rawdata.png)
 #Clean data visual
-![Clean data picture](Clean.png)
+![Clean data picture](clean.png)
